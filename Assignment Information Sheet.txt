@@ -1,0 +1,28 @@
+Name: Alex Lampe Assignment #: 1
+
+Lecture Day and Time: Tues+Thurs 1pm SEC 1200
+
+Recitation Day and Time: Fri 1pm SEC 1220
+
+Program Due Date: Sat Feb 5
+
+Handed in Date: Mon Jan 31
+
+Source code (.java) file name(s):
+
+MyQ.java QueueInterface.java Indexable.java Shufflable.java Assig1A.java Assig1B.java EmptyQueueException.java Card.java RandIndexQueue.java BlackjackCards.java Blackjack.java
+
+Input / output file name(s) (if applicable): Not applicable
+
+Does your program compile without error?: Yes 
+
+If not, what is/are the error(s)?:
+
+Does your program run without error?: Yes 
+
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+Additional comments (including problems and extra credit):
+
+ 
+
